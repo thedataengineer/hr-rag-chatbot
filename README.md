@@ -129,4 +129,3 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ---
 
 Built with ❤️ by Karteek Yadavilli, Field CTO and VP of Strategy at Accion Labs
-```
