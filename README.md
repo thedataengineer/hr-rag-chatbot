@@ -128,7 +128,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ---
 
-Built with ❤️ by [Your Name], Field CTO and VP of Strategy at Accion Labs
+Built with ❤️ by Karteek Yadavilli, Field CTO and VP of Strategy at Accion Labs
 ```
 
 This README effectively communicates the enterprise-grade nature of your HR RAG Chatbot project. It highlights:
